@@ -32,7 +32,7 @@ technical_background:
     "VAPT"
   ]
   
-currently_learning: ["Burpsuite, Hacking, and New stacks for development"]
+currently_learning: ["Burpsuite", "Ethical Hacking", "New stacks for development"]
 hobbies: ["Gaming", "Music", "Book", "Eating"]
 ```
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
