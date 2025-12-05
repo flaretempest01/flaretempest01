@@ -1,5 +1,5 @@
 <p align="center" style="margin-top: 2rem">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=Let's%20Connect%20🚀&fontSize=55&animation=fadeIn&fontColor=4afff9" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=Let's%20Connect%20🚀&fontSize=55&animation=blinking&fontColor=4afff9" />
 </p>
 
 <h2> ℹ️ &nbsp;A Little Bit About Me and My Interests</h2>
@@ -61,6 +61,6 @@ hobbies: ["Gaming", "Music", "Book", "Eating"]
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
