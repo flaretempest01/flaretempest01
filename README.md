@@ -8,7 +8,7 @@
 * ⚡ Fun fact: I am alive
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=🌍%20Hello%20World!%20🌏&fontSize=50animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=🌍%20Hello%20World!%20🌏&fontSize=35animation=fadeIn" />
 </p>
 
 <p align="center">
