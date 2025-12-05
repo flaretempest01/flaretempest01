@@ -7,4 +7,4 @@
 * ❤️ I love: Music, Food, and Games
 * ⚡ Fun fact: I am alive
 
-<img src="https://capsule-render.vercel.app/api?type=wave&animation=blinking&color=#2fe3f7&height=200&section=header&text=Hello%20World!&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color='#2fe3f7'&height=200&section=header&text=Hello%20World!&fontSize=50animation=fadeIn" />
