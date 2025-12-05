@@ -56,8 +56,10 @@ hobbies: ["Gaming", "Music", "Book", "Eating"]
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-<p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHd4djBteXBrNnp3NTU2cDl4ZWNjM252aWxwcDBvYnI4ODJsZGFzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pkfWxD1OWjwhnpF2Rb/giphy.gif" alt="dedsec">
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
