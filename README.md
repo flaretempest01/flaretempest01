@@ -9,5 +9,5 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=🌍%20Hello%20World!%20🌏&fontSize=50animation=fadeIn" />
 
-<img src="[https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=🌍%20Hello%20World!%20🌏&fontSize=50animation=fadeIn](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHd4djBteXBrNnp3NTU2cDl4ZWNjM252aWxwcDBvYnI4ODJsZGFzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pkfWxD1OWjwhnpF2Rb/giphy.gif)" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHd4djBteXBrNnp3NTU2cDl4ZWNjM252aWxwcDBvYnI4ODJsZGFzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pkfWxD1OWjwhnpF2Rb/giphy.gif" />
 
