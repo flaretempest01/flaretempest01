@@ -7,8 +7,8 @@
 * ❤️ I love: Music, Food, and Games
 * ⚡ Fun fact: I am alive
 
-<p align="center" style="margin-top: 1.5rem">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=🌍%20Hello%20World!%20🌏&fontSize=35animation=fadeIn" />
+<p align="center" style="margin-top: 2rem">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=🌍%20Hello%20World!%20🌏&fontSize=25&animation=fadeIn" />
 </p>
 
 <p align="center">
