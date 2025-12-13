@@ -8,12 +8,13 @@
 name: Kazuya Sato
 located_in: Rizal, Philippines
 current_job: Web Developer
+company: Metro Pacific Tollways Corporation
+
 education:
   [
     "Self-Taught Developer and Penetration Tester",
     "Bachelor of Science in Information Technology",
   ]
-company: Metro Pacific Tollways Corporation
 
 fields_of_interests:
   [
@@ -23,6 +24,7 @@ fields_of_interests:
     "SOC",
     "Red Team",
   ]
+
 technical_background:
   [
     "Front-End Developer"
@@ -32,8 +34,20 @@ technical_background:
     "VAPT"
   ]
   
-currently_learning: ["Burpsuite", "Ethical Hacking", "New stacks for development"]
-hobbies: ["Gaming", "Music", "Book", "Eating"]
+currently_learning:
+  [
+    "Burpsuite",
+    "Ethical Hacking",
+    "New stacks for development"
+  ]
+
+hobbies:
+  [
+    "Gaming",
+    "Music",
+    "Book",
+    "Eating"
+  ]
 ```
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
