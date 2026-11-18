@@ -7,8 +7,7 @@
 ```yaml
 name: Kaz Sato
 located_in: Rizal, Philippines
-current_job: Web Developer
-company: Metro Pacific Tollways Corporation
+current_job: Software Engineer
 
 education:
   [
