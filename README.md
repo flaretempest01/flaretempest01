@@ -5,7 +5,7 @@
 <h2> ℹ️ &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Kazuya Sato
+name: Kaz Sato
 located_in: Rizal, Philippines
 current_job: Web Developer
 company: Metro Pacific Tollways Corporation
